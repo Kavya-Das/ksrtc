@@ -1,0 +1,24 @@
+.text{
+    color: rgb(4, 75, 4);
+    text-shadow: rgb(47, 128, 47);
+    font-size: 50px;
+
+}
+.img{
+    
+    padding: 35px;
+}
+.background{
+    background-color: olivedrab ;
+    
+}
+.padd1{
+    background-color: lightblue;
+    width: 300px;
+    border: lightseagreen;
+    padding: 55px;
+    margin: 20px;
+}
+.imgpadd{
+    padding: 20px;
+}
